@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on web projects
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Html,Css,Js
-- 📫 How to reach me: https://mail.google.com/mail/u/0/#inbox
+- 📫 How to reach me: wasiarain819@gmail.com
 
