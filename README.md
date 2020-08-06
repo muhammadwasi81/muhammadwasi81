@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Muhammad wasi
 
+[![HitCount](http://hits.dwyl.com/muhammadwasi81/muhammadwasi81.svg)](http://hits.dwyl.com/muhammadwasi81/muhammadwasi81)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web projects
