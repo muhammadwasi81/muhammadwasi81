@@ -8,9 +8,12 @@ Here are some ideas to get you started:
 email: wasiarain819@gmail.com
 phone: +92 3162493262
 
+<html>
 <canvas></canvas>
 <h1>Muhammad wasi<span class="last"></span></h1>
-
+  </html>
+  
+<style>
 * {
   box-sizing: border-box;
 }
@@ -62,6 +65,8 @@ canvas {
   box-shadow: 0 1em 2em 0.5em hsla(210deg, 35%, 0%, 0.1)
 }
 
+</style>
+<script>
 (function global() {
   const canvas = document.querySelector('canvas');
   const ctx = canvas.getContext('2d');
@@ -261,3 +266,4 @@ canvas {
     requestAnimationFrame(actions)
   }, {passive: true});
 }());
+</script>
