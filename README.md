@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Muhammad wasi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -58,4 +58,3 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
