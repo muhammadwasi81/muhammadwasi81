@@ -32,7 +32,7 @@
 <br/>
 
 <a href="https://github.com/muhammadwasi81">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadwasi81&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
@@ -41,9 +41,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://muhammad-wasi-45f9a.web.app/"><img alt="Website" src="https://img.shields.io/badge/https://muhammad-wasi-45f9a.web.app/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/muhammad-wasi-b26b04176/"><img alt="LinkedIn" src="https://img.shields.io/badge/muhammad-wasi-b26b04176-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/muhammadwasi81/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://muhammad-wasi-45f9a.web.app/"><img alt="Website" src=""></a>
+<a href="https://www.linkedin.com/in/muhammad-wasi-b26b04176/"><img alt="LinkedIn" src=""></a>
+<a href="https://www.instagram.com/muhammadwasi81/"><img alt="Instagram" src=""></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img alt="Email" src=""></a>
 </p>
 
