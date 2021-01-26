@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad wasi</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/sachuverma/">
-    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+    <img src="https://img.shields.io/badge/linkedin-muhammadwasi81-blue">
   </a>
   
   <a href="https://www.instagram.com/sachuverma_/">
