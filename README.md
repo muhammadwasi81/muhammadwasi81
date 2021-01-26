@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad wasi</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
-    <img src="https://img.shields.io/badge/linkedin-muhammadwasi81-blue">
+   <a href="https://www.linkedin.com/in/muhammad-wasi-b26b04176/">
+    <img src="https://img.shields.io/badge/linkedin-muhammad-wasi-b26b04176-blue">
   </a>
   
-  <a href="https://www.instagram.com/sachuverma_/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  <a href="https://www.instagram.com/muhammadwasi81">
+    <img src="https://img.shields.io/badge/instagram-muhammadwasi81-red">
   </a>
 </p>
 
@@ -42,8 +42,10 @@
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
 <img style="margin: auto;" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/z8zb2smxpm2idu5anl2h" alt=postman width="60" height="60"/>
- 
+<img style="margin: auto;" src="https://firebase.google.com/images/social.png" alt=firebase width="60" height="60"/>
+<img style="margin: auto;" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ff0a6e30-eab3-11e9-a22e-83df461207f7.png" alt=netlify width="60" height="60"/>
 </p>
+
 
 <h4>Desktop Environment: </h4>
 <p align="left">
