@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad wasi</h1>
  <p align="center"><br/>
-     <a href="https://img.shields.io/badge/linkedIn-muhammad--wasi-blue/">
+     <a href="https://www.instagram.com/muhammadwasi81/">
     <img src="https://img.shields.io/badge/instagram-muhammadwasi81-blue/">
   </a>
   
-  <a href="https://www.instagram.com/muhammadwasi81/">
-    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
+  <a href="https://www.linkedin.com/in/muhammad-wasi-b26b04176/">
+    <img src="https://img.shields.io/badge/linkedIn-muhammad--wasi-blue/">
   </a>
 </p>
 
