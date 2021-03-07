@@ -21,7 +21,7 @@
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Football**❤
-- 📫 How to reach me **wasiarain819@gmail.com**
+- 📫 How to reach me **<a href="mailto:wasiarain819@gmail.com">Email Me</a>**
 
 <h4>Skills and Tools: </h4>
 <p align="left">
