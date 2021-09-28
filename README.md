@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **REACT/NEXTJS**
 - 🌱 I’m currently learning ... **MERN STACK..**
 - 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
+- 😄 Employement ... **Open for JOB opportunities**
 - ⚡ Fun fact ... **Football**❤
 - 📫 How to reach me **<a href="mailto:wasiarain819@gmail.com" target="_blank">Muhammad wasi</a>**
 
