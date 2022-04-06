@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad wasi</h1>
  <p align="center"><br/>
-     <a href="https://www.instagram.com/muhammadwasi81/">
+     <a href="https://www.instagram.com/JavaScriptWasi/">
     <img src="https://img.shields.io/badge/instagram-muhammadwasi81-blue/">
   </a>
   
@@ -9,16 +9,13 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Front-end developer from Pakistan</h3>
-<h3 align="center">Bachelor Computer Science (To be graduated in 2023)</h3>
+<h3 align="center">A passionate Front-end developer</h3>
 
+<a href="https://app.daily.dev/Muhammadwasi"><img src="https://api.daily.dev/devcards/a638e93212084b34ada91f793f0c1625.png?r=gbc" width="400" alt="Muhammad wasi's Dev Card"/></a>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on **REACT/NEXTJS**
-- 🌱 I’m currently learning ... **MERN STACK..**
-- 💬 Ask me about ... **Web Develpoment**
+- 🔭 I’m currently working on **REACT NATIVE**
+- 🌱 I’m currently learning ... **REACT NATIVE**
+- 💬 Ask me about ... **Full Stack Development**
 - 😄 Employement ... **Open for JOB opportunities**
 - ⚡ Fun fact ... **Football**❤
 - 📫 How to reach me **<a href="mailto:wasiarain819@gmail.com" target="_blank">Muhammad wasi</a>**
