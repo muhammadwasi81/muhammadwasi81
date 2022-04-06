@@ -11,8 +11,6 @@
 
 <h3 align="center">A passionate Front-end developer</h3>
 
-<a href="https://app.daily.dev/Muhammadwasi"><img src="https://api.daily.dev/devcards/a638e93212084b34ada91f793f0c1625.png?r=gbc" width="400" alt="Muhammad wasi's Dev Card"/></a>
-
 - 🔭 I’m currently working on **REACT NATIVE**
 - 🌱 I’m currently learning ... **REACT NATIVE**
 - 💬 Ask me about ... **Full Stack Development**
