@@ -1,4 +1,18 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad wasi</h1>
+### Hi there 👋
+I'm Muhammad Wasi, a Software Developer!
+
+One of my favorite stacks is JavaSCript in combination with Mern Stack in the frontend and in the backend (with Node).
+
+My other love is libraries and frameworks, the teckstacks of JavaScript.
+
+### Stats section
+[![Wasi's github stats](https://github-readme-stats.vercel.app/api?username=oliverjumpertz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/muhammadwasi81) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwasi81&theme=tokyonight)](https://github.com/muhammadwasi81)
+
+## Want to contact me?
+You can usually find me on [Twitter](https://twitter.com/intent/follow?screen_name=muhammadwasi81).
+Just send me a DM, and I'll try to answer as soon as possible. 😄
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Muhammad wasi</h1>
  <p align="center"><br/>
      <a href="https://www.instagram.com/JavaScriptWasi/">
     <img src="https://img.shields.io/badge/instagram-muhammadwasi81-blue/">
@@ -52,3 +66,4 @@
 
 
 
+ -->
