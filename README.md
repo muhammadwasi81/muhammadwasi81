@@ -1,12 +1,12 @@
 ### Hi there 👋
-I'm Muhammad Wasi, a Software Developer!
+I'm Muhammad Wasi, a Mern Stack developer!
 
 One of my favorite stacks is JavaSCript in combination with Mern Stack in the frontend and in the backend (with Node).
 
 My other love is libraries and frameworks, the teckstacks of JavaScript.
 
 ### Stats section
-[![Wasi's github stats](https://github-readme-stats.vercel.app/api?username=oliverjumpertz&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/muhammadwasi81) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwasi81&theme=tokyonight)](https://github.com/muhammadwasi81)
+[![Wasi's github stats](https://github-readme-stats.vercel.app/api?username=muhammadwasi81&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/muhammadwasi81) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwasi81&theme=tokyonight)](https://github.com/muhammadwasi81)
 
 ## Want to contact me?
 You can usually find me on [Twitter](https://twitter.com/intent/follow?screen_name=muhammadwasi81).
